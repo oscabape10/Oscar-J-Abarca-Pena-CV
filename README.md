@@ -45,6 +45,10 @@ System dependencies.
 * Focus on problem solving and self teaching.
 Technologies used: Ruby, Rails, HTML, CSS
 
+#### General Assembly - (Jan 2018, Bootcamp)
+* HtML for developers.
+* CSS for develpers.
+
 #### CIMA - (Jul 2013 to Oct 2016)
 - Certificate in Business Accounting level completed.
 
