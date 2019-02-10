@@ -5,7 +5,7 @@
 A full-stack developer looking to switch careers from Finance to Web Development.
 I studied an Industrial Engineering degree at UNI (National Universty of Engineering) Managua, Nicaragua. In 2002 I moved to London to improved and master my English as a language leading to persue a career in Finance. Through the years since, I have worked as Accountant and Financial Analyst in many companies and Financial Services around London including a top four accountancy firm, From blue-chip companies to startups and FinTech (HSBC-PWC-TOG-Strategy&-Funding Circle-BGC Partners).
 
-Having been working as a Finance Analyst for the past 6 years, my career lead me to realize that it will be necessary to learns VBA coding as a language to automate my work in Excel, Subsequently this gave me a flavour in coding taking an interest in Web development.
+Having been working as a Finance Analyst for the past 6 years, my career lead me to realize that it will be necessary to learns VBA coding as a language to automate my work in Excel, subsequently this gave me a flavour in coding, taking an interest in Web development.
 
 ## Recent projects
 
