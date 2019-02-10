@@ -1,4 +1,4 @@
-## <p align="center"> Oscar J Abarca </p>
+## <p align="center"> Oscar J Abarca Pena </p>
 
  <p align="center"> | <a href=#recent-projects>Recent projects</a> | <a href=#education>Education</a> | <a href=#experience>Experience</a> | <a href=#interests>Interests</a> | </p>
 
