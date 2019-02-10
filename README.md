@@ -2,7 +2,7 @@
 
  <p align="center"> | <a href=#recent-projects>Recent projects</a> | <a href=#education>Education</a> | <a href=#experience>Experience</a> | <a href=#interests>Interests</a> | </p>
 
-A fullstack developer looking to switch careers from Finance to Web Development.
+A full-stack developer looking to switch careers from Finance to Web Development.
 I studied an Industrial Engineering degree at UNI (National Universty of Engineering) Managua, Nicaragua. In 2002 I moved to London to improved and master my English as a language leading to persue a career in Finance. Through the years since, I have worked as Accountant and Financial Analyst in many companies and Financial Services around London including a top four accountancy firm, From blue-chip companies to startups and FinTech (HSBC-PWC-TOG-Strategy&-Funding Circle-BGC Partners).
 
 Having been working as a Finance Analyst for the past 6 years, my career lead me to realize that it will be necessary to learns VBA coding as a language to automate my work in Excel, Subsequently this gave me a flavour in coding taking an interest in Web development.
@@ -20,8 +20,8 @@ Having been working as a Finance Analyst for the past 6 years, my career lead me
 #### Toy app
 | <span style="font-weight:normal">Project Link </span>| [Toy app- Twitter Style app](https://github.com/oscabape10/Toy-app---Twitter-style-app) |
 |-----|-----|
-| Description | A full-stack AirBnB clone. A team project following Agile and XP principles. |
-| My role | - Add property logic and page <br> - Toy app - Twitter style app. Basic app builded from scratch using Ruby on rails tutorial. app does: Create ,edit, delete users and posts.
+| Description | A full-stack twitter like app, using Ruby on rails. |
+| My role | - Add property logic and pages <br> - Toy app - Twitter style app. Basic app builded from scratch using Ruby on rails tutorial. app does: Create ,edit, delete users and posts.
 * creation of data base.
 * Configuration.
 System dependencies.
