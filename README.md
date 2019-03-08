@@ -75,8 +75,10 @@ Technologies used: Ruby, Rails, HTML, CSS
 
 **BGC Partners** (Apr 2018 to Present)
 *Global MI reporting Analyst*
+
 **Funding Circle** (Mar 2017 to Mar 2018)    
 *UK FP&A Analyst*  
+
 **PWC** (Feb 2012 to Jul 2016)   
 *Financial Executive - 1 year*  
 *Financial Analyst - 1 year*  
