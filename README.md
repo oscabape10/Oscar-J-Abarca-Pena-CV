@@ -74,6 +74,7 @@ Technologies used: Ruby, Rails, HTML, CSS
 ## Experience
 
 **BGC Partners** (Apr 2018 to Present)
+
 *Global MI reporting Analyst*
 
 **Funding Circle** (Mar 2017 to Mar 2018)    
