@@ -17,7 +17,7 @@ Having been working as a Finance Analyst for the past 6 years, my career lead me
 |Technologies | React Native, Redux, Enzyme, Jest |
 
 #### My WebPage
-| <span style="font-weight:normal">Project Link </span>| [My Webpage] (https://oscabape10.github.io/oscarJAbarcaPena/index.html) |
+| <span style="font-weight:normal">Project Link </span>| [My Webpage](https://oscabape10.github.io/oscarJAbarcaPena/index.html) |
 |-----|-----|
 | Description | Introductury webpage about myself, skills in web development in two languages, English/Spanish. The page show links to a portfolio with a few of my projects. |
 |Technologies | HTML, CSS, Bootstrap, Git |
