@@ -10,7 +10,7 @@ Having been working as a Finance Analyst for the past 6 years, my career lead me
 ## Recent projects
 
 #### Full Running web application
-| <span style="font-weight:normal">Project Link </span>| [Injection Dependent   ](https://github.com/Alastair2D/injection_dependent) |
+| <span style="font-weight:normal">Project Link </span>| [Injection Dependent](https://github.com/Alastair2D/injection_dependent) |
 |-----|-----|
 | Description | A mobile app for iOS and Android to help those with type 1 diabetes manage their injections. |
 | My role | - Implementing Redux to manage data accessibility between screens <br> - Converting app from single-page to multi-page <br> - Set up the Rails backend to save and load data <br> - Created initial app logic |
