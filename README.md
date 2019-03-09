@@ -17,22 +17,20 @@ Having been working as a Finance Analyst for the past 6 years, my career lead me
 |Technologies | React Native, Redux, Enzyme, Jest |
 
 #### My WebPage
-| <span style="font-weight:normal">Project Link </span>| [My Webpage](https://oscabape10.github.io/oscarJAbarcaPena/index.html) |
+| <span style="font-weight:normal">Project Link </span>| [My Webpage] (https://oscabape10.github.io/oscarJAbarcaPena/index.html) |
 |-----|-----|
 | Description | Introductury webpage about myself, skills in web development in two languages, English/Spanish. The page show links to a portfolio with a few of my projects. |
 |Technologies | HTML, CSS, Bootstrap, Git |
 
 #### Brown Bears
-| <span style="font-weight:normal">Project Link </span>| [Brown Bears]
-(https://oscabape10.github.io/Brown-Bears/index.html) |
+| <span style="font-weight:normal">Project Link </span>| [Brown Bears](https://oscabape10.github.io/Brown-Bears/index.html)|
 |-----|-----|
 | Description | Project about Brown Bears, an small project to practice the skills learned at General Assembly bootcamp (HMTL and CSS. |
 |Technologies | HTML, CSS, Bootstrap, Git |
 
 
 #### Toy app
-| <span style="font-weight:normal">Project Link </span>| [Toy app- Twitter Style app]
-(https://github.com/oscabape10/Toy-app---Twitter-style-app) |
+| <span style="font-weight:normal">Project Link </span>| [Toy app- Twitter Style app](https://github.com/oscabape10/Toy-app-Twitter-style-app) |
 |-----|-----|
 | Description | A full-stack twitter like app, using Ruby on rails. |
 | My role | - Add property logic and pages <br> - Toy app - Twitter style app. Basic app builded from scratch using Ruby on rails tutorial. app does: Create ,edit, delete users and posts.
@@ -46,8 +44,7 @@ System dependencies.
 |Technologies | Ruby on Rails, HTML, Css, Heroku, Bitbucket|
 
 #### Hello app
-| <span style="font-weight:normal">Project Link </span>| [Hello App]
-(https://github.com/oscabape10/Hello-app) |
+| <span style="font-weight:normal">Project Link </span>| [Hello App](https://github.com/oscabape10/Hello-app) |
 |-----|-----|
 | Description | First basic app using Ruby on rails to deploy message "hello, world!". |
 |Technologies | Ruby on rails, Heroku, Bitbucket |
