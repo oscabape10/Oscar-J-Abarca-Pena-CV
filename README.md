@@ -35,7 +35,7 @@ Having been working as a Finance Analyst for the past 6 years, my career lead me
 |Technologies | JavaScript, Git, Github |
 
 #### Eigh-tBall
-| <span style="font-weight:normal">Project Link </span>| [Eight-Ball](https://oscabape10.github.io/EightBalll/.)|
+| <span style="font-weight:normal">Project Link </span>| [Eight-Ball](https://github.com/oscabape10/EightBalll/blob/master/Eight%20Ball%20.js)|
 |-----|-----|
 | Description | A JavaScrpit game program. Control flow! It’s so powerful, in fact, that it can be used to tell someone’s fortune. In this project I build the Magic Eight Ball using control flow in JavaScript. The user will be able to input a question, then the program will output a random fortune. Enjoy!!! | 
 |Technologies | JavaScript, Git, Github |
