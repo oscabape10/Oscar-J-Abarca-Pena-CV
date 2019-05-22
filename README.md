@@ -43,7 +43,7 @@ Having been working as a Finance Analyst for the past 6 years, my career lead me
 #### WhaleTalk
 | <span style="font-weight:normal">Project Link </span>| [WhaleTalk](https://oscabape10.github.io/whaleTalk/) |
 |-----|-----|
-| Speak the whale language. Take a phrase like ‘turpentine and turtles’ and translate it into its “whale talk” equivalent: ‘UUEEIEEAUUEE’. | 
+| Description | Speak the whale language. Take a phrase like ‘turpentine and turtles’ and translate it into its “whale talk” equivalent: ‘UUEEIEEAUUEE’. | 
 |Technologies | JavaScript, Git, Github |
 
 
