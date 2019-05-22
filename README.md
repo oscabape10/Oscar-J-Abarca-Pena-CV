@@ -2,8 +2,8 @@
 
  <p align="center"> | <a href=#recent-projects>Recent projects</a> | <a href=#education>Education</a> | <a href=#experience>Experience</a> | <a href=#interests>Interests</a> | </p>
 
-A full-stack developer looking to switch careers from Finance to Web Development.
-I studied an Industrial Engineering degree at UNI (National Universty of Engineering) Managua, Nicaragua. In 2002 I moved to London to improved and master my English as a language leading to persue a career in Finance. Through the years since, I have worked as Accountant and Financial Analyst in many companies and Financial Services around London including a top four accountancy firm, From blue-chip companies to startups and FinTech (HSBC-PWC-TOG-Strategy&-Funding Circle-BGC Partners).
+A front end Developer looking to switch careers from Finance to Web Development.
+I studied an Industrial Engineering degree at UNI (National Universty of Engineering) Managua, Nicaragua. In 2002 I moved to London to improved and master my English as a language leading to persue a career in Finance. Through the years since, I have worked as Accountant and Financial Analyst in many companies and Financial Services around London including a top four accountancy firm, from blue-chip companies to startups and FinTech (HSBC-PWC-TOG-Strategy&-Funding Circle-BGC Partners).
 
 Having been working as a Finance Analyst for the past 6 years, my career lead me to realize that it will be necessary to learn VBA coding as a language to automate my work in Excel, subsequently this gave me a flavour in coding, taking an interest in Web development.
 
@@ -29,6 +29,19 @@ Having been working as a Finance Analyst for the past 6 years, my career lead me
 |Technologies | HTML, CSS, Bootstrap, Git |
 
 
+#### Rock-Paper-or-Scissor
+| <span style="font-weight:normal">Project Link </span>| [Rock-Paper-or-Scissor](https://oscabape10.github.io/Rock-Paper-or-Scissors/.) |
+|-----|-----|
+| Description | A JavaScript Program, Rock paper scissors is a classic two player game. Each player chooses either rock, paper, or scissors. The items are compared, and whichever player chooses the more powerful item wins. The possible outcomes are: Rock destroys scissors. Scissors cut paper. Paper covers rock. If there’s a tie, then the game ends in a draw.
+
+The code will break the game into four parts:
+
+Get the user’s choice. Get the computer’s choice. Compare the two choices and determine a winner. Start the program and display the results. . |
+| My role | - Write the code following project instructions.
+* Configuration.
+* How to run the test suite
+|Technologies |JavaScript, Git, Github|
+
 #### Toy app
 | <span style="font-weight:normal">Project Link </span>| [Toy app- Twitter Style app](https://github.com/oscabape10/Toy-app-Twitter-style-app) |
 |-----|-----|
@@ -51,11 +64,11 @@ System dependencies.
 
 ## Education
 
-#### Code Academy - (Dec 2018 to Present)
+#### Code Academy Pro - (Dec 2018 to Present)
 * Object Oriented Programming.
 * Test Driven Development.
 * Focus on problem solving and self teaching.
-Technologies used: Ruby, Rails, HTML, CSS
+Technologies used: JavaScript, Reactjs, Node js, Ruby, Rails, HTML, CSS.
 
 #### General Assembly - (Jan 2018, Bootcamp)
 * HtML for developers.
