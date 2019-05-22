@@ -29,13 +29,13 @@ Having been working as a Finance Analyst for the past 6 years, my career lead me
 |Technologies | HTML, CSS, Bootstrap, Git |
 
 #### Rock-Paper-or-Scissors
-| <span style="font-weight:normal">Project Link </span>| [Rock-Paper-or-Scissors](https://oscabape10.github.io/Rock-Paper-or-Scissors/) |
+| <span style="font-weight:normal">Project Link </span>| [Rock-Paper-or-Scissors](https://oscabape10.github.io/Rock-Paper-or-Scissors/)|
 |-----|-----|
 | Description | Rock paper scissors is a classic two player game. Each player chooses either rock, paper, or scissors. The items are compared, and whichever player chooses the more powerful item wins. The possible outcomes are: Rock destroys scissors. Scissors cut paper. Paper covers rock. If there’s a tie, then the game ends in a draw.The code will break the game into four parts: Get the user’s choice. Get the computer’s choice. Compare the two choices and determine a winner. Start the program and display the results. | 
 |Technologies | JavaScript, Git, Github |
 
 #### SleepDebtCollector
-| <span style="font-weight:normal">Project Link </span>| [SleepDebtCollector](https://oscabape10.github.io/SleepDebtCollector/) |
+| <span style="font-weight:normal">Project Link </span>| [SleepDebtCollector](https://oscabape10.github.io/SleepDebtCollector/)|
 |-----|-----|
 | Did you know that giraffes sleep 4.6 hours a day? We humans need more than that. If we don’t sleep enough, we accumulate sleep debt. In this project we’ll calculate if you’re getting enough sleep each week using a sleep debt calculator. The program will determine the actual and ideal hours of sleep for each night of the last week. Finally, it will calculate, in hours, how far you are from your weekly sleep goal.. | 
 |Technologies | JavaScript, Git, Github |
