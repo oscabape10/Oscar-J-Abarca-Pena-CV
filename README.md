@@ -37,7 +37,7 @@ Having been working as a Finance Analyst for the past 6 years, my career lead me
 The code will break the game into four parts:
 
 Get the user’s choice. Get the computer’s choice. Compare the two choices and determine a winner. Start the program and display the results. . |
-| My role | - Write the code following project instructions.
+| My role | - Write the code following project instructions.|
 * Configuration.
 * How to run the test suite|
 |Technologies |JavaScript, Git, Github|
