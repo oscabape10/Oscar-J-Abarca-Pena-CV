@@ -29,7 +29,7 @@ Having been working as a Finance Analyst for the past 6 years, my career lead me
 |Technologies | HTML, CSS, Bootstrap, Git |
 
 #### Rock-Paper-or-Scissors
-| <span style="font-weight:normal">Project Link </span>| [Rock-Paper-or-Scissors](https://oscabape10.github.io/Rock-Paper-or-Scissors/.js)|
+| <span style="font-weight:normal">Project Link </span>| [Rock-Paper-or-Scissors](https://oscabape10.github.io/rock-paper-scissors.js)|
 |-----|-----|
 | Description | Rock paper scissors is a classic two player game. Each player chooses either rock, paper, or scissors. The items are compared, and whichever player chooses the more powerful item wins. The possible outcomes are: Rock destroys scissors. Scissors cut paper. Paper covers rock. If there’s a tie, then the game ends in a draw.The code will break the game into four parts: Get the user’s choice. Get the computer’s choice. Compare the two choices and determine a winner. Start the program and display the results. | 
 |Technologies | JavaScript, Git, Github |
